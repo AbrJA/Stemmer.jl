@@ -1,6 +1,5 @@
 module StemmerLite
 
-using Languages
 using Snowball_jll
 
 export Stemmer, stem, stemmer_types
